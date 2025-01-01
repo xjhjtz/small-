@@ -227,6 +227,7 @@ int main()
 			cin>>zf_ascll;
 			cout<<int(zf_ascll);
 		}
+	
 	}
 	//24.12.26 改bug 
 	//24.12.31 加入清屏和握手问题解决器 
